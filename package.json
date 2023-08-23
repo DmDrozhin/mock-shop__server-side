@@ -1,0 +1,26 @@
+{
+  "name": "json_server_test",
+  "version": "1.0.0",
+  "description": "JSON Server for test reasons",
+  "main": "index.js",
+  "scripts": {
+    "server1": "json-server -w ./server/database/db.json -p 3001",
+    "server2": "json-server -w ./server/orders_consolidated/orders.json -p 3002",
+    "start": "node -r dotenv/config ./index.js"
+  },
+  "keywords": [
+    "JSON",
+    "Server",
+    "mock",
+    "server"
+  ],
+  "author": "Dmitriy Drozhin",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "3.5.3",
+    "cross-env": "7.0.3",
+    "dotenv": "16.3.1",
+    "json-server": "^0.17.3",
+    "nodemailer": "6.9.4"
+  }
+}

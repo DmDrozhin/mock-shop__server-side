@@ -1,0 +1,3554 @@
+{
+  "orders": [
+    {
+      "7768228": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7768228
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7768228
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 1
+    },
+    {
+      "7770677": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7770677
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 12
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7770677
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7770677
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 2
+    },
+    {
+      "7805697": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7805697
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 11
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7805697
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 3
+    },
+    {
+      "7806226": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 12
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7806226
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 10
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7806226
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 4
+    },
+    {
+      "7809541": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 8
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7809541
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 1
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7809541
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 5
+    },
+    {
+      "7809956": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 7
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7809956
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7809956
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 6
+    },
+    {
+      "7812658": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 11
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7812658
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 8
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7812658
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 7
+    },
+    {
+      "7814490": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 6
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7814490
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 7
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7814490
+        },
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 10
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7814490
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 8
+    },
+    {
+      "7817441": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7817441
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 6
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7817441
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 5
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7817441
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 9
+    },
+    {
+      "7819073": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 4
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7819073
+        },
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 8
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7819073
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 5
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7819073
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 10
+    },
+    {
+      "7821794": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 7
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7821794
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 4
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7821794
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 3
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7821794
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 11
+    },
+    {
+      "7822854": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 6
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7822854
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 3
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7822854
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7822854
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 12
+    },
+    {
+      "7835229": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 1
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7835229
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7835229
+        },
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 5
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7835229
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 13
+    },
+    {
+      "7852650": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 4
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7852650
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 1
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7852650
+        },
+        {
+          "image": "5.jpg",
+          "prod-name": "T-shirt 5",
+          "price": 650.3522314,
+          "article": "T5",
+          "available": [
+            {
+              "s": 15
+            },
+            {
+              "m": 3
+            },
+            {
+              "l": 0
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 650.3522314,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 650.3522314,
+          "prodID": 4,
+          "prodSize": "s",
+          "prodSizeID": 0,
+          "cartID": 2,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7852650
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 0
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "s",
+          "prodSizeID": 0,
+          "time": "2023-08-11T17:56:50.709Z",
+          "number": 7852650
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 14
+    },
+    {
+      "7858633": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 15
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7858633
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7858633
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7858633
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 15
+    },
+    {
+      "7860739": [
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7860739
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 8
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7860739
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7860739
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 16
+    },
+    {
+      "7862203": [
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 12
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7862203
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 17
+    },
+    {
+      "7863051": [
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 11
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7863051
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 18
+    },
+    {
+      "7864197": [
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 10
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7864197
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 19
+    },
+    {
+      "7865039": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7865039
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 20
+    },
+    {
+      "7867023": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 7867023
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 21
+    },
+    {
+      "8455779": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 12
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 8455779
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 8455779
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 7
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-11T20:31:01.905Z",
+          "number": 8455779
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 22
+    },
+    {
+      "8462929": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 15
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8462929
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8462929
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8462929
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 23
+    },
+    {
+      "8465011": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8465011
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 8
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8465011
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 24
+    },
+    {
+      "8468006": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8468006
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 25
+    },
+    {
+      "8469610": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 12
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8469610
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8469610
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 26
+    },
+    {
+      "8471600": [
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8471600
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 7
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8471600
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 27
+    },
+    {
+      "8472793": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 11
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8472793
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 12
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8472793
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 1
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8472793
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 28
+    },
+    {
+      "8559676": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 10
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8559676
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 6
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8559676
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 11
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-12T13:18:11.512Z",
+          "number": 8559676
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 29
+    },
+    {
+      "9280268": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-13T12:00:24.033Z",
+          "number": 9280268
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-13T12:00:24.033Z",
+          "number": 9280268
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-13T12:00:24.033Z",
+          "number": 9280268
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 30
+    },
+    {
+      "9304252": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 15
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9304252
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9304252
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 31
+    },
+    {
+      "9309199": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9309199
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9309199
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9309199
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 32
+    },
+    {
+      "9310942": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 8
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9310942
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 1
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 870.4124123,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9310942
+        },
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9310942
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 33
+    },
+    {
+      "9320369": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 13
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9320369
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 12
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9320369
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 7
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-13T12:40:24.175Z",
+          "number": 9320369
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 34
+    },
+    {
+      "9360087": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 15
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 6,
+          "cartSum": 4261.405405404001,
+          "orderQt": 6,
+          "orderSum": 4261.405405404001,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-13T14:13:27.063Z",
+          "number": 9360087
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-13T14:13:27.063Z",
+          "number": 9360087
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 2,
+          "prodSum": 1740.8248246,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 2,
+          "orderSum": 1740.8248246,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-13T14:13:27.063Z",
+          "number": 9360087
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 35
+    },
+    {
+      "102131": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 15
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 710.234234234,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-14T10:50:08.841Z",
+          "number": 102131
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 315.12312412,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-14T10:50:08.841Z",
+          "number": 102131
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 36
+    },
+    {
+      "113529": [
+        {
+          "image": "1.jpg",
+          "prod-name": "T-shirt 1",
+          "price": 710.234234234,
+          "article": "T1",
+          "available": [
+            {
+              "s": 10
+            },
+            {
+              "m": 2
+            },
+            {
+              "l": 15
+            },
+            {
+              "xl": 0
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 710.234234234,
+          "cartQt": 4,
+          "cartSum": 2840.936936936,
+          "orderQt": 4,
+          "orderSum": 2840.936936936,
+          "prodID": 0,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 0,
+          "time": "2023-08-14T11:09:11.737Z",
+          "number": 113529
+        },
+        {
+          "image": "2.jpg",
+          "prod-name": "T-shirt 2",
+          "price": 315.12312412,
+          "article": "T2",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 22
+            },
+            {
+              "l": 14
+            },
+            {
+              "xl": 1
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 315.12312412,
+          "cartQt": 4,
+          "cartSum": 1260.49249648,
+          "orderQt": 4,
+          "orderSum": 1260.49249648,
+          "prodID": 1,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 1,
+          "time": "2023-08-14T11:09:11.737Z",
+          "number": 113529
+        },
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "cartID": 2,
+          "time": "2023-08-14T11:09:11.737Z",
+          "number": 113529
+        },
+        {
+          "image": "6.jpeg",
+          "prod-name": "T-shirt 6",
+          "price": 870.4124123,
+          "article": "T6",
+          "available": [
+            {
+              "s": 2
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 2
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для жінок",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 870.4124123,
+          "cartQt": 2,
+          "cartSum": 1740.8248246,
+          "orderQt": 2,
+          "orderSum": 1740.8248246,
+          "prodID": 5,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-14T11:09:11.737Z",
+          "number": 113529
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 37
+    },
+    {
+      "198254": [
+        {
+          "image": "4.jpg",
+          "prod-name": "T-shirt 4",
+          "price": 530.1245512,
+          "article": "T4",
+          "available": [
+            {
+              "s": 0
+            },
+            {
+              "m": 0
+            },
+            {
+              "l": 9
+            },
+            {
+              "xl": 5
+            }
+          ],
+          "category": "для чоловіків",
+          "isInCart": true,
+          "prodQt": 1,
+          "prodSum": 530.1245512,
+          "cartQt": 0,
+          "cartSum": 0,
+          "orderQt": 1,
+          "orderSum": 530.1245512,
+          "prodID": 3,
+          "prodSize": "l",
+          "prodSizeID": 2,
+          "time": "2023-08-14T13:30:22.449Z",
+          "number": 198254
+        }
+      ],
+      "customer": {
+        "name1": "Сергій",
+        "name2": "Коваль",
+        "name3": "",
+        "tel": "+38 (095) 585-25-55",
+        "email": "s.koval@gmail.com",
+        "address": "м. Київ, вул. Вишнева, буд. 85, кв. 128"
+      },
+      "id": 38
+    }
+  ]
+}

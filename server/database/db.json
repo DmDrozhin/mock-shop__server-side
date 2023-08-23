@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "prod-name": "T-shirt 1",
+      "price": 710.234234234,
+      "article": "T1",
+      "available": [
+        {
+          "s": 10
+        },
+        {
+          "m": 2
+        },
+        {
+          "l": 15
+        },
+        {
+          "xl": 0
+        }
+      ],
+      "category": "для чоловіків"
+    },
+    {
+      "image": "2.jpg",
+      "prod-name": "T-shirt 2",
+      "price": 315.12312412,
+      "article": "T2",
+      "available": [
+        {
+          "s": 2
+        },
+        {
+          "m": 22
+        },
+        {
+          "l": 14
+        },
+        {
+          "xl": 1
+        }
+      ],
+      "category": "для жінок"
+    },
+    {
+      "image": "3.jpg",
+      "prod-name": "T-shirt 3",
+      "price": 420.51524,
+      "article": "T3",
+      "available": [
+        {
+          "s": 0
+        },
+        {
+          "m": 2
+        },
+        {
+          "l": 0
+        },
+        {
+          "xl": 0
+        }
+      ],
+      "category": "для жінок"
+    },
+    {
+      "image": "4.jpg",
+      "prod-name": "T-shirt 4",
+      "price": 530.1245512,
+      "article": "T4",
+      "available": [
+        {
+          "s": 0
+        },
+        {
+          "m": 0
+        },
+        {
+          "l": 9
+        },
+        {
+          "xl": 5
+        }
+      ],
+      "category": "для чоловіків"
+    },
+    {
+      "image": "5.jpg",
+      "prod-name": "T-shirt 5",
+      "price": 650.3522314,
+      "article": "T5",
+      "available": [
+        {
+          "s": 15
+        },
+        {
+          "m": 3
+        },
+        {
+          "l": 0
+        },
+        {
+          "xl": 0
+        }
+      ],
+      "category": "для жінок"
+    },
+    {
+      "image": "6.jpeg",
+      "prod-name": "T-shirt 6",
+      "price": 870.4124123,
+      "article": "T6",
+      "available": [
+        {
+          "s": 2
+        },
+        {
+          "m": 0
+        },
+        {
+          "l": 2
+        },
+        {
+          "xl": 5
+        }
+      ],
+      "category": "для жінок"
+    }
+  ]
+}
